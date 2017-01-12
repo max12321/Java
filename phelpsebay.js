@@ -3,7 +3,7 @@ jQuery(function($){
 	//Define seller settings
 	var UserID = "phelpsgaskets";
 	var StoreID = "phelpsgaskets";
-	var ImgURL = "http://i.ebayimg.com/00/s/NDYzWDc1MA==/z/P08AAOSwA3dYcjEJ/$_57.JPG";
+	var ImgURL = "http://www.suncoasttools.com/Ebay/";
 	var settings = {
 		"UserID":UserID,
 		"loadingClass": "loading",
